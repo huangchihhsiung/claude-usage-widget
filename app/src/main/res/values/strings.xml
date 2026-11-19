@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Claude 用量小工具</string>
+    <string name="widget_description">顯示 Claude 5 小時與每週剩餘用量</string>
+</resources>
